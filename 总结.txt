@@ -1,0 +1,18 @@
+一、[除了es5的var和function以外，es6引入了let const import class这四种声明变量的方法]，[而let实际上为JavaScript新增了块级作用域。在此之前只有全局和函数作用域]
+引入了Symbol的第七个原始数据类型，表示独一无二的值。新的数据结构Set\Map
+前六种是：undefined、null、布尔值（Boolean）、字符串（String）、数值（Number）、对象（Object）
+
+二、[解构赋值]
+用途：
+- 交换变量的值
+- 从函数返回多个值
+- 函数参数的定义
+- 提取 JSON 数据
+- 函数参数的默认值
+- 遍历 Map 结构
+- 输入模块的指定方法
+三、对[字符串\数值\函数\数组\对象进行扩展]
+四、多了一些遍历的方法
+- for in
+- Object.keys(obj)等
+五、
